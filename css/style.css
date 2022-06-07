@@ -1,4 +1,24 @@
 p{
     color:red;
     font-size: 1.5rem;
+    text-align: center;
+}
+
+img{
+    margin : 0 auto;
+   
+}
+ul{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+li{
+    padding: 2rem;
+  text-decoration: none;
+  list-style-type: none;
+
+}
+nav{
+    display: flex;
 }
